@@ -1,0 +1,7 @@
+{
+	"name": "embed-genai-chat-into-react",
+	"dependencies": {
+		"@cloudscape-design/components": "^3.0.830",
+		"react": "^18.3.1"
+	}
+}
